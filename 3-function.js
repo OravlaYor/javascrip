@@ -4,7 +4,7 @@
 
 // el nombre reservado de function y parametros que recibira esa function 
 
-function miFuncion() { // function declaration Declarativas expresión 
+function miFuncion() { // function de de claration 
     return 3; 
 }
 

@@ -23,4 +23,4 @@ Operadores logicos
 Simbolo	Descripcion
 !	NOT niega un valor
 &&	AND
-||	OR/*
+||	OR*/

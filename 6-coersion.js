@@ -2,11 +2,13 @@
 
 var a = 2+"4"
 "24"
-typeof a = "string"
+typeof a;
+ "string";
 // este sera 24 pero en string osea una palabra solo lo unio y no genero mas solo los unio es una forma de explciar que javaS asume lo que tratas de hacer este bien o mal 
-/*Coerción es la forma en la que podemos cambiar un tipo de valor a otro, existen dos tipos de coerción: Coerción implícita = es cuando el lenguaje nos ayuda a cambiar el tipo de valor. Coerción explicita = es cuando obligamos a que cambie el tipo de valor.*/
+/*Coerción es la forma en la que podemos cambiar un tipo de valor a otro, existen dos tipos de coerción: Coerción implícita = es cuando el lenguaje nos ayuda a cambiar el tipo de valor. 
+Coerción explicita = es cuando obligamos a que cambie el tipo de valor.*/
 
-pero como obligar a un numero a ser un string, de esta manera
+//pero como obligar a un numero a ser un string, de esta manera
 
 var a= 20;
 var b = a + "";
